@@ -1,0 +1,32 @@
+{
+  "stats": [
+    {
+      "label": "Revenue",
+      "value": "$2,047",
+      "percentage": -10,
+      "image": "/icons/ren.jpeg",
+      "color": "#FFB020"
+    },
+    {
+      "label": "Orders",
+      "value": 356,
+      "percentage": 20,
+      "image": "/icons/shop.png",
+      "color": "#42A5F5"
+    },
+    {
+      "label": "Dine in",
+      "value": 220,
+      "percentage": 10,
+      "image": "/icons/dine.jpeg",
+      "color": "#EF5350"
+    },
+    {
+      "label": "Take away",
+      "value": 135,
+      "percentage": -5,
+      "image": "/icons/takeaway.png",
+      "color": "#FFCA28"
+    }
+  ]
+}

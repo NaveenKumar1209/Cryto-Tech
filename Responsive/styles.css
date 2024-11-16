@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.navbar {
+    background-color: #0f54f5;
+    color: white ;
+}
+
+.nav-item a {
+    color: white;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+
+#banner-container {
+    background-color: #f6f6f6;
+    color: #0a193d;
+    padding: 40px 0;
+}
+
+#banner-row h3 {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#banner-row p {
+    color: #555;
+    margin-top: 10px;
+}
+
+
+.badge {
+    background-color: #0a73ff;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 15px;
+    display: inline-block;
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+}
+
+
+.trust-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.trust-icon {
+    width: 30px;
+}
+
+
+.play-section {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.play-bg {
+    background: linear-gradient(45deg, orange, red, violet);
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.play-button {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.stats {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.stat-item {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Buttons Section */
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.signup-btn {
+    background-color: white;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.explore-btn {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
